@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\qin\source\repos\circles\circles\main.cpp(56): warning C4244: “=”: 从“LONG”转换到“FLOAT”，可能丢失数据
+c:\users\qin\source\repos\circles\circles\main.cpp(62): warning C4244: “=”: 从“LONG”转换到“FLOAT”，可能丢失数据
+c:\users\qin\source\repos\circles\circles\main.cpp(98): warning C4244: “参数”: 从“double”转换到“FLOAT”，可能丢失数据
+c:\users\qin\source\repos\circles\circles\main.cpp(241): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+  Circles.vcxproj -> C:\Users\QIN\source\repos\Circles\x64\Debug\Circles.exe
